@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola soy Juan Pablo Lopez
+## Desarrollador Full Stack.
 
 <!--
 **megagringa/megagringa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+--------------------
+Conocimientos:
+*HTML
+*CSS 
+*Javascript
+*React.js
+*Node.js
+*SQL
+*Java
+*Python
