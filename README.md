@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 --------------------
 Conocimientos:
-*HTML
-*CSS 
-*Javascript
-*React.js
-*Node.js
-*SQL
-*Java
-*Python
+ *HTML
+ *CSS 
+ *Javascript
+ *React.js
+ *Node.js
+ *SQL
+ *Java
+ *Python
