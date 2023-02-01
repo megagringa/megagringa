@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 --------------------
-Conocimientos:
+Tecnologías:
  - HTML
  - CSS 
  - Javascript
