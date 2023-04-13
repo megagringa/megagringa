@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, yo soy Juan Pablo Lopez</h1>
+<h1 align="center">Hola 👋, soy Juan Pablo Lopez</h1>
 <h3 align="center">Un apasionado del Desarrollo FullStack</h3>
 
 <h3 align="left">Connect with me:</h3>
